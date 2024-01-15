@@ -1,6 +1,6 @@
 package crypto
 
-import (
+import (RBXViralAcquisition=true&RBXSource=true&GoogleAnalytics=true
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/des"
